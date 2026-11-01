@@ -7,7 +7,7 @@ In 2026 I started building the tools I wished my customers had, working with Cla
 **What I'm building**
 
 - **Board Desk** — a desk for a condominium board: what's waiting for approval, how much cash can be approved without running short, what's owed, and whether the bank agrees. Started as a working prototype for the association I chair in Florida; being rebuilt as a product management companies can license. *(Private while it's being built.)*
-- **bv-finance-sync** — a pipeline that takes Quicken for Mac data and feeds a household finance dashboard, so the numbers are always current without re-keying anything.
+- **[quicken-sync](https://github.com/ivanbou1-maker/quicken-sync)** — a Claude plugin that takes Quicken for Mac data and feeds a household finance dashboard on Cloudflare, updated every morning, so the numbers are always current without re-keying anything. It's the generic version of the pipeline that runs my own household's dashboard.
 
 **How I work**
 
